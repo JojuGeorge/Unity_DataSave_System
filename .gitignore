@@ -58,4 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-DataSave_Systems/Packages/
+
+DataSave_Systems/Packages/Microsoft.NETFramework.ReferenceAssemblies.net471.1.0.2/.signature.p7s
+DataSave_Systems/Packages/Microsoft.NETFramework.ReferenceAssemblies.net471.1.0.2/Microsoft.NETFramework.ReferenceAssemblies.net471.1.0.2.nupkg
